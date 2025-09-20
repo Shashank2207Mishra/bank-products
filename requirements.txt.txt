@@ -1,0 +1,14 @@
+# Core libraries
+numpy>=1.26.0
+pandas>=2.2.0
+joblib>=1.4.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+
+# Visualization
+matplotlib>=3.9.0
+
+# Web App Framework
+streamlit>=1.36.0
